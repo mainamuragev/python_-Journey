@@ -18,3 +18,4 @@ What I Learned
 
 Why It Matters
 This repo is part of a larger effort to build technical fluency and share my learning journey as I pivot into software and data engineering. By documenting even the basics, I aim to support others starting out and create a strong foundation for more advanced projects.
+"Data pipeline " 
